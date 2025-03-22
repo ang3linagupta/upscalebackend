@@ -2,9 +2,12 @@
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
+    "emailjs": "^4.0.3",
     "express": "^4.21.2",
-    "mongoose": "^8.10.0",
-    "path": "^0.12.7"
+    "mongoose": "^8.12.2",
+    "nanoid": "^5.1.5",
+    "path": "^0.12.7",
+    "react-router-dom": "^7.4.0"
   },
   "scripts": {
     "start": "node server-mvc.js"
