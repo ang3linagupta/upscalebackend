@@ -1,4 +1,6 @@
-const bcrypt = require('bcrypt');
+// const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
+
 const mongoose = require('mongoose');
 const Admin = require('../models/adminloginmodel');
 const MONGO_URI = 'mongodb+srv://ang3lina:Angelina127@cluster0.vfz3c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
