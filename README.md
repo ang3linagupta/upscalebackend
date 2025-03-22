@@ -39,4 +39,3 @@ UpScale empowers brands or organizations to host franchise opportunities, making
  
 ---
 
-****
